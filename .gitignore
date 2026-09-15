@@ -21,3 +21,7 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+# Raw and processed datasets
+data/raw/
+data/processed/
